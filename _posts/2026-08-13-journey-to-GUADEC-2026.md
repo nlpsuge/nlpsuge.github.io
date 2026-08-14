@@ -3,7 +3,7 @@ title: Journey to GUADEC 2026
 date: 2026-08-12 22:12:00 +0200
 categories: [Technology, GNOME]
 tags: [guadec, opensource, linux]     # TAG names should always be lowercase
-description: A personal blog post about my journey to and experience at GUADEC 2026 in A Coruña, Spain.
+description: My very first blog post in English about my journey to and experience at GUADEC 2026 in A Coruña, Spain.
 image:
   path: /assets/img/guadec-2026/group-photo-in-front-of-the-entrance.jpeg
   alt: GUADEC 2026
